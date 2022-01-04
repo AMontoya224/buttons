@@ -1,0 +1,38 @@
+button{
+    margin: 5px 1000px 5px 40px;
+
+}
+
+.search{
+    margin-top: 50px;
+    color:rgb(55, 199, 204);
+    border-radius: 15px;
+    width: 150px;
+    height: 27px;
+    font-size: 15px;
+    font-weight:bold;
+    border-color: rgb(55, 199, 204);
+    background-color: transparent;
+}
+
+.plus{
+    color:white;
+    border-radius: 18px;
+    width: 35px;
+    height: 35px;
+    font-size: 23px;
+    border-style: none;
+    background-color: rgb(55, 199, 204);
+    padding-top: 3px;
+}
+
+.account{
+    color:white;
+    width: 180px;
+    height: 40px;
+    font-size: 17px;
+    background-color:rgb(29, 126, 223);
+    border-color: black;
+    box-shadow: 3px 3px 0 0 black;
+    padding-top: 3px;
+}
